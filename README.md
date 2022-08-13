@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **spring , sql**
 
-- 💬 Ask me about **java , javascript , sql , html , css**
+- 💬 Ask me about **java , javascript , sql , html , css , hibernate, jdbc, springboot**
 
 - 📫 How to reach me **akashlkolte1999@gmail.com**
 
