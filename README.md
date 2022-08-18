@@ -35,11 +35,11 @@
 
 <img src="https://zooz.github.io/predator/images/restapi.png" alt="drawing" width="100"/>
 
-<br />
 
-# 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akkii99&show_icons=true&locale=en&layout=compact" alt="akkii99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akkii99&show_icons=true&locale=en" alt="akkii99" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkolte99&show_icons=true&locale=en&layout=compact" alt="akashkolte99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akkii99&" alt="akkii99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashkolte99&show_icons=true&locale=en" alt="akashkolte99" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkolte99&" alt="akashkolte99" /></p>
+
