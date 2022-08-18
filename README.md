@@ -16,6 +16,7 @@
 <p align="left">
   
 <a href="https://www.linkedin.com/in/akash-kolte-9070431b9/" target= "blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-kolte-9070431b9" height="30" width="40" /></a>
+<a href="https://akashkolteportfolio.netlify.app" target= "blank" ><img align="center" src="https://imgs.search.brave.com/eP1m0hEQ4f0r_3UqUOy5CymcLy1_EvDUO27awbHyNOs/rs:fit:1200:552:1/g:ce/aHR0cHM6Ly9kdHdl/Ym1hc3Rlci5jb20u/YnIvd3AtY29udGVu/dC91cGxvYWRzLzIw/MTkvMDQvcG9ydGZv/bGlvLWxvZ28tcG5n/LTMucG5n" alt="https://www.linkedin.com/in/akash-kolte-9070431b9" height="30" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
