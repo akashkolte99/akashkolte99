@@ -31,13 +31,13 @@
 <img  align="left" src="https://miro.medium.com/max/818/1*zc-LgogGtr7fFHF9e1M8wA.png" alt="drawing" width="100"/>
 
 <img src="https://maven.apache.org/images/maven-logo-white-on-black.purevec.svg" alt="drawing" width="100"/>
-<img src="https://zooz.github.io/predator/images/restapi.png" alt="drawing" width="100"/>
+<img align="left" src="https://zooz.github.io/predator/images/restapi.png" alt="drawing" width="100"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="drawing" height="50px" width="100"/>
 <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="drawing" height="50px"  width="100"/>
 <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" height="50px"  width="100"/>
 
 
-
+<p> "    "<p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkolte99&show_icons=true&locale=en&layout=compact" alt="akashkolte99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashkolte99&show_icons=true&locale=en" alt="akashkolte99" /></p>
