@@ -16,7 +16,7 @@
 <p align="left">
   
 <a href="https://www.linkedin.com/in/akash-kolte-9070431b9/" target= "blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-kolte-9070431b9" height="30" width="40" /></a>
-<a href="https://akashkolteportfolio.netlify.app" target= "blank" ><img align="center" src="https://imgs.search.brave.com/gQgY5i_EAE88ohXDi0bNVIVQku6foc33q7rfnbsmVzw/rs:fit:750:400:1/g:ce/aHR0cHM6Ly9zdG9y/ZS5tb3RvdGhlbWVz/Lm5ldC9yZXBvL2lt/YWdlcy9wb3J0Zm9s/aW8tbG9nby5qcGc" alt="https://www.linkedin.com/in/akash-kolte-9070431b9" height="30" width="40" /></a>
+<a href="https://akashkolteportfolio.netlify.app" target= "blank" ><img align="center" src="https://imgs.search.brave.com/gQgY5i_EAE88ohXDi0bNVIVQku6foc33q7rfnbsmVzw/rs:fit:750:400:1/g:ce/aHR0cHM6Ly9zdG9y/ZS5tb3RvdGhlbWVz/Lm5ldC9yZXBvL2lt/YWdlcy9wb3J0Zm9s/aW8tbG9nby5qcGc" alt="https://www.linkedin.com/in/akash-kolte-9070431b9" height="30" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
