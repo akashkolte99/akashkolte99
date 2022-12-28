@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://www.linkedin.com/in/akash-kolte-9070431b9/" target= "blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-kolte-9070431b9](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTylKCihJQSgg22s6COVJ3w_Sh1iWfTbLSt7Q&usqp=CAU)" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akash-kolte-9070431b9/" target= "blank" ><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-zicci&psig=AOvVaw2LduIJlK-qOMFkHsp-Sju3&ust=1672296159315000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOD0jJfbm_wCFQAAAAAdAAAAABAS)" alt="https://www.linkedin.com/in/akash-kolte-9070431b9](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTylKCihJQSgg22s6COVJ3w_Sh1iWfTbLSt7Q&usqp=CAU)" height="30" width="40" /></a>
 <a href="https://akashkolteportfolio.netlify.app" target="blank"><img align="center" src="https://imgs.search.brave.com/AhmjEwdOQr_hMsOP9-CbcAq-KqwZBc9cBlIwVHk9Ybo/rs:fit:900:500:1/g:ce/aHR0cHM6Ly9zZWVr/dmVjdG9ybG9nby5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTkvMDUvcG9ydGZv/bGlvLXBsdXMtYmFu/a2luZy1zb2Z0d2Fy/ZS12ZWN0b3ItbG9n/by5wbmc" alt="https://www.linkedin.com/in/akash-kolte-9070431b9" target="blank" height="30" width="100" /></a>
 </p>
 
